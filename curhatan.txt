@@ -1,5 +1,8 @@
 ----- Project Warkuy's ------
 
-Kenangan project :'), lebih baik di share di sini daripada di dalem recylebin 
+Kenangan project :'), lebih baik di share di sini daripada di dalem recylebin
+- apa ya ini
+- coba git
 
 yaudah gitu doang si
+* menambahkan fitur baru
